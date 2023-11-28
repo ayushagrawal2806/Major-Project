@@ -1358,12 +1358,13 @@ button:hover{
 
 #footer a{
     color: #DFE5EC;
+    margin-bottom: 0.4rem;
 }
 #footer .inner{
     display: flex ;
     justify-content: center;
     column-gap: 6rem;
-    margin-bottom: 2.8rem;
+    margin-bottom: 2.95rem;
     
 }
 
