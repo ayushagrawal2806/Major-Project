@@ -5,9 +5,9 @@
     font-family: 'Open Sans', sans-serif;
     scroll-behavior: smooth;
 }
-html,body{
+/* html,body{
     width: 100%;
-}
+} */
 button{
     background-color: #14BF98;
     border: 2px solid #14BF98;
@@ -432,9 +432,9 @@ button:hover{
     color: #14BF98;
 }
 
-#services .service1 .cards .card2 ,.card3{
+/* #services .service1 .cards .card2 , .card3{
     height: 31rem;
-}
+} */
 
 #services .service1 .cards button{
     position:absolute;
@@ -1151,7 +1151,7 @@ button:hover{
     padding: 6.5rem 5rem;
 }
 #contact_us .content{
-    width: 40%;
+    width: 50%;
     /* border: 1px solid red; */
 }
 #contact_us .content .contact{
